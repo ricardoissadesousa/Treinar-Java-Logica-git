@@ -32,7 +32,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## 📞 Contato
 
-Para dúvidas ou sugestões, entre em contato através do email: [ricardoissadesousa@gmail.com](ricardoissadesousa@gmail.com)
+Para dúvidas ou sugestões, entre em contato através do Linkedin: [https://www.linkedin.com/in/ricardo-issa-792560261/](https://www.linkedin.com/in/ricardo-issa-792560261/)
 
 ---
 
