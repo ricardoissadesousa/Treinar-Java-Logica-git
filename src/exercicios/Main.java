@@ -1,3 +1,5 @@
+package exercicios;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -13,6 +15,7 @@ public class Main {
 
 
        double  result = (horas * km )/12 ;
+
 
        System.out.printf("%.3f%n",result);
 

@@ -1,3 +1,5 @@
+package exercicios;
+
 import java.util.Scanner;
 
 public class exer1Resolvido {

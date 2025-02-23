@@ -1,3 +1,5 @@
+package exercicios;
+
 import java.util.Locale;
 // exercio 1 para treinar oque aprendeu nesta aula
 public class exe1 {
